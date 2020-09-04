@@ -377,7 +377,7 @@ a {
 }
 /*************** end of gallery ***************/
 /*************** deals ***************/
-.input-group {
+/* .input-group {
   width: 90vw;
   max-width: 600px;
   margin: 0 auto;
@@ -409,7 +409,7 @@ a {
 .btn-submit:hover {
   color: var(--mainWhite);
   background: var(--primaryColor);
-}
+} */
 /*************** end of deals ***************/
 /*************** footer ***************/
 .footer {
